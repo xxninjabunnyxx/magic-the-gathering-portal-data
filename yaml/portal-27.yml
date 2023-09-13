@@ -1,0 +1,108 @@
+---
+object: card
+id: 0dbea02f-9124-4e1a-8693-d988a0a3adae
+oracle_id: d03860b4-c663-4230-9200-6b89fa849ae7
+multiverse_ids:
+- 4395
+tcgplayer_id: 777
+cardmarket_id: 10174
+name: Spiritual Guardian
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/0dbea02f-9124-4e1a-8693-d988a0a3adae
+scryfall_uri: https://scryfall.com/card/por/27/spiritual-guardian?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.jpg?1562445666
+  normal: https://cards.scryfall.io/normal/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.jpg?1562445666
+  large: https://cards.scryfall.io/large/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.jpg?1562445666
+  png: https://cards.scryfall.io/png/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.png?1562445666
+  art_crop: https://cards.scryfall.io/art_crop/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.jpg?1562445666
+  border_crop: https://cards.scryfall.io/border_crop/front/0/d/0dbea02f-9124-4e1a-8693-d988a0a3adae.jpg?1562445666
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Spirit
+oracle_text: When Spiritual Guardian enters the battlefield, you gain 4 life.
+power: '3'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0dbea02f-9124-4e1a-8693-d988a0a3adae/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad03860b4-c663-4230-9200-6b89fa849ae7&unique=prints
+collector_number: '27'
+digital: false
+rarity: rare
+flavor_text: Hope is born within.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Terese Nielsen
+artist_ids:
+- eb55171c-2342-45f4-a503-2d5a75baf752
+illustration_id: 78d2e301-ba74-4a08-87e9-ecb946a7b5ef
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24720
+prices:
+  usd: '4.03'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4395
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Spiritual+Guardian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Spiritual+Guardian&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Spiritual+Guardian
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/777?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Spiritual+Guardian&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Spiritual+Guardian&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

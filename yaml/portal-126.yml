@@ -1,0 +1,108 @@
+---
+object: card
+id: ea7edaf3-7941-4085-bdbc-e5c9832b6444
+oracle_id: 5bd806e7-3f9b-4bb4-9708-f87a578f531e
+multiverse_ids:
+- 4337
+tcgplayer_id: 670
+cardmarket_id: 10116
+name: Fire Imp
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/ea7edaf3-7941-4085-bdbc-e5c9832b6444
+scryfall_uri: https://scryfall.com/card/por/126/fire-imp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/a/ea7edaf3-7941-4085-bdbc-e5c9832b6444.jpg?1562448317
+  normal: https://cards.scryfall.io/normal/front/e/a/ea7edaf3-7941-4085-bdbc-e5c9832b6444.jpg?1562448317
+  large: https://cards.scryfall.io/large/front/e/a/ea7edaf3-7941-4085-bdbc-e5c9832b6444.jpg?1562448317
+  png: https://cards.scryfall.io/png/front/e/a/ea7edaf3-7941-4085-bdbc-e5c9832b6444.png?1562448317
+  art_crop: https://cards.scryfall.io/art_crop/front/e/a/ea7edaf3-7941-4085-bdbc-e5c9832b6444.jpg?1562448317
+  border_crop: https://cards.scryfall.io/border_crop/front/e/a/ea7edaf3-7941-4085-bdbc-e5c9832b6444.jpg?1562448317
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Imp
+oracle_text: When Fire Imp enters the battlefield, it deals 2 damage to target creature.
+power: '2'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ea7edaf3-7941-4085-bdbc-e5c9832b6444/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5bd806e7-3f9b-4bb4-9708-f87a578f531e&unique=prints
+collector_number: '126'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: DiTerlizzi
+artist_ids:
+- ed44dce4-30cf-4c2c-b2e1-a19ba2295690
+illustration_id: 5a968206-cc5f-484a-98a4-019d2bf72ae5
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23318
+penny_rank: 12966
+prices:
+  usd: '0.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4337
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fire+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fire+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fire+Imp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/670?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fire+Imp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fire+Imp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

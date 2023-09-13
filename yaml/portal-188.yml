@@ -1,0 +1,106 @@
+---
+object: card
+id: 287ba07e-6434-4850-940f-454fcab3f535
+oracle_id: 935e0cac-51ee-4cb7-a209-f085e0f099ed
+multiverse_ids:
+- 4320
+tcgplayer_id: 792
+cardmarket_id: 10099
+name: Sylvan Tutor
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/287ba07e-6434-4850-940f-454fcab3f535
+scryfall_uri: https://scryfall.com/card/por/188/sylvan-tutor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1562446146
+  normal: https://cards.scryfall.io/normal/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1562446146
+  large: https://cards.scryfall.io/large/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1562446146
+  png: https://cards.scryfall.io/png/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.png?1562446146
+  art_crop: https://cards.scryfall.io/art_crop/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1562446146
+  border_crop: https://cards.scryfall.io/border_crop/front/2/8/287ba07e-6434-4850-940f-454fcab3f535.jpg?1562446146
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Search your library for a creature card, reveal it, then shuffle and
+  put that card on top.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/287ba07e-6434-4850-940f-454fcab3f535/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A935e0cac-51ee-4cb7-a209-f085e0f099ed&unique=prints
+collector_number: '188'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kaja Foglio
+artist_ids:
+- e8b85539-756a-4eac-ac66-a2258d7cf547
+illustration_id: f6311b15-f4b2-4573-96f9-6d8d761442b7
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3720
+prices:
+  usd: '70.72'
+  usd_foil: 
+  usd_etched: 
+  eur: '51.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4320
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sylvan+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sylvan+Tutor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sylvan+Tutor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/792?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sylvan+Tutor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sylvan+Tutor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

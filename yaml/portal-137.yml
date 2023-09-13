@@ -1,0 +1,107 @@
+---
+object: card
+id: f2bebbad-76aa-4388-891a-583e8af9509d
+oracle_id: 387b6b07-a283-412d-94c3-f7f1dc76e858
+multiverse_ids:
+- 4348
+tcgplayer_id: 710
+cardmarket_id: 10127
+name: Lava Axe
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/f2bebbad-76aa-4388-891a-583e8af9509d
+scryfall_uri: https://scryfall.com/card/por/137/lava-axe?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/2/f2bebbad-76aa-4388-891a-583e8af9509d.jpg?1562448334
+  normal: https://cards.scryfall.io/normal/front/f/2/f2bebbad-76aa-4388-891a-583e8af9509d.jpg?1562448334
+  large: https://cards.scryfall.io/large/front/f/2/f2bebbad-76aa-4388-891a-583e8af9509d.jpg?1562448334
+  png: https://cards.scryfall.io/png/front/f/2/f2bebbad-76aa-4388-891a-583e8af9509d.png?1562448334
+  art_crop: https://cards.scryfall.io/art_crop/front/f/2/f2bebbad-76aa-4388-891a-583e8af9509d.jpg?1562448334
+  border_crop: https://cards.scryfall.io/border_crop/front/f/2/f2bebbad-76aa-4388-891a-583e8af9509d.jpg?1562448334
+mana_cost: "{4}{R}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Lava Axe deals 5 damage to target player or planeswalker.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f2bebbad-76aa-4388-891a-583e8af9509d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A387b6b07-a283-412d-94c3-f7f1dc76e858&unique=prints
+collector_number: '137'
+digital: false
+rarity: common
+flavor_text: Swing your axe as a broom, to sweep away the foe.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Adrian Smith
+artist_ids:
+- be42f6f3-66d4-4957-9f1e-0591f8b95364
+illustration_id: 470a2b6f-8565-4a17-b4e7-05a5a0e0566f
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14257
+penny_rank: 7903
+prices:
+  usd: '0.13'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.29'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4348
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lava+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lava+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lava+Axe
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/710?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lava+Axe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lava+Axe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

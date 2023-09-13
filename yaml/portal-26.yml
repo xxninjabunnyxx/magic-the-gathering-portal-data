@@ -1,0 +1,107 @@
+---
+object: card
+id: 17db0060-3667-4c8c-ae9b-d62dceac64e3
+oracle_id: 0c7239bf-dc8a-4d79-867e-7a4225568c49
+multiverse_ids:
+- 4394
+tcgplayer_id: 768
+cardmarket_id: 10173
+name: Seasoned Marshal
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/17db0060-3667-4c8c-ae9b-d62dceac64e3
+scryfall_uri: https://scryfall.com/card/por/26/seasoned-marshal?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/7/17db0060-3667-4c8c-ae9b-d62dceac64e3.jpg?1562445677
+  normal: https://cards.scryfall.io/normal/front/1/7/17db0060-3667-4c8c-ae9b-d62dceac64e3.jpg?1562445677
+  large: https://cards.scryfall.io/large/front/1/7/17db0060-3667-4c8c-ae9b-d62dceac64e3.jpg?1562445677
+  png: https://cards.scryfall.io/png/front/1/7/17db0060-3667-4c8c-ae9b-d62dceac64e3.png?1562445677
+  art_crop: https://cards.scryfall.io/art_crop/front/1/7/17db0060-3667-4c8c-ae9b-d62dceac64e3.jpg?1562445677
+  border_crop: https://cards.scryfall.io/border_crop/front/1/7/17db0060-3667-4c8c-ae9b-d62dceac64e3.jpg?1562445677
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Creature — Human Soldier
+oracle_text: Whenever Seasoned Marshal attacks, you may tap target creature.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/17db0060-3667-4c8c-ae9b-d62dceac64e3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c7239bf-dc8a-4d79-867e-7a4225568c49&unique=prints
+collector_number: '26'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zina Saunders
+artist_ids:
+- eff6a2bb-7ca1-432e-8af9-aa85ee2359a2
+illustration_id: 9de1f45b-9e91-4bc3-83b2-776f2f6851a9
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23390
+prices:
+  usd: '0.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4394
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Seasoned+Marshal&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Seasoned+Marshal&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Seasoned+Marshal
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/768?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Seasoned+Marshal&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Seasoned+Marshal&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

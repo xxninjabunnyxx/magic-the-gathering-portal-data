@@ -1,0 +1,112 @@
+---
+object: card
+id: 4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4
+oracle_id: 508248d1-09a4-4e41-a4c9-286618e5061e
+multiverse_ids:
+- 4211
+tcgplayer_id: 626
+cardmarket_id: 9990
+name: Bog Wraith
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4
+scryfall_uri: https://scryfall.com/card/por/83/bog-wraith?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/4/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4.jpg?1562446616
+  normal: https://cards.scryfall.io/normal/front/4/4/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4.jpg?1562446616
+  large: https://cards.scryfall.io/large/front/4/4/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4.jpg?1562446616
+  png: https://cards.scryfall.io/png/front/4/4/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4.png?1562446616
+  art_crop: https://cards.scryfall.io/art_crop/front/4/4/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4.jpg?1562446616
+  border_crop: https://cards.scryfall.io/border_crop/front/4/4/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4.jpg?1562446616
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Wraith
+oracle_text: Swampwalk (This creature can't be blocked as long as defending player
+  controls a Swamp.)
+power: '3'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Landwalk
+- Swampwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A508248d1-09a4-4e41-a4c9-286618e5061e&unique=prints
+collector_number: '83'
+digital: false
+rarity: uncommon
+flavor_text: It moved through the troops leaving no footprints, save on their souls.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ted Naifeh
+artist_ids:
+- 4601d9e5-616b-47c4-b9ca-e2b4ab257bc9
+illustration_id: 534b5f76-d698-4916-963e-84ebd1f96f5a
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16894
+penny_rank: 12722
+prices:
+  usd: '0.19'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4211
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bog+Wraith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bog+Wraith&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bog+Wraith
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/626?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bog+Wraith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bog+Wraith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

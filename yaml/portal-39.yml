@@ -1,0 +1,109 @@
+---
+object: card
+id: d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa
+oracle_id: 34515b16-c9a4-4f98-8c77-416a7a523407
+multiverse_ids:
+- 4408
+tcgplayer_id: 826
+cardmarket_id: 10187
+name: Wrath of God
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa
+scryfall_uri: https://scryfall.com/card/por/39/wrath-of-god?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/7/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa.jpg?1562447853
+  normal: https://cards.scryfall.io/normal/front/d/7/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa.jpg?1562447853
+  large: https://cards.scryfall.io/large/front/d/7/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa.jpg?1562447853
+  png: https://cards.scryfall.io/png/front/d/7/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa.png?1562447853
+  art_crop: https://cards.scryfall.io/art_crop/front/d/7/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa.jpg?1562447853
+  border_crop: https://cards.scryfall.io/border_crop/front/d/7/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa.jpg?1562447853
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Destroy all creatures. They can't be regenerated.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d75d8204-6f9d-4a7a-bb8b-d51ac65a30fa/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34515b16-c9a4-4f98-8c77-416a7a523407&unique=prints
+collector_number: '39'
+digital: false
+rarity: rare
+flavor_text: |-
+  "As flies to wanton boys, are we to the gods. They kill us for their sport."
+  —William Shakespeare, *King Lear*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Raabe
+artist_ids:
+- d29cd67f-30a7-4fb9-a081-36c3d5982442
+illustration_id: bbdc2354-293b-4a4c-96b1-0770a32aeba7
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 314
+penny_rank: 48
+prices:
+  usd: '12.48'
+  usd_foil: 
+  usd_etched: 
+  eur: '10.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4408
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wrath+of+God&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wrath+of+God&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wrath+of+God
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/826?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wrath+of+God&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wrath+of+God&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

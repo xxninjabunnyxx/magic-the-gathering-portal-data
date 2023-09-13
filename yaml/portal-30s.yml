@@ -1,0 +1,108 @@
+---
+object: card
+id: 90d76e2d-6720-4f0e-a5b1-71a59d47a3fb
+oracle_id: e66e3450-bddb-46ac-bc7e-c7732e258374
+multiverse_ids: []
+tcgplayer_id: 477199
+cardmarket_id: 10177
+name: Starlit Angel
+lang: zhs
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb
+scryfall_uri: https://scryfall.com/card/por/30s/zhs/starlit-angel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/0/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb.jpg?1664653640
+  normal: https://cards.scryfall.io/normal/front/9/0/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb.jpg?1664653640
+  large: https://cards.scryfall.io/large/front/9/0/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb.jpg?1664653640
+  png: https://cards.scryfall.io/png/front/9/0/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb.png?1664653640
+  art_crop: https://cards.scryfall.io/art_crop/front/9/0/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb.jpg?1664653640
+  border_crop: https://cards.scryfall.io/border_crop/front/9/0/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb.jpg?1664653640
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Angel
+oracle_text: Flying
+power: '3'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/90d76e2d-6720-4f0e-a5b1-71a59d47a3fb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae66e3450-bddb-46ac-bc7e-c7732e258374&unique=prints
+collector_number: 30s
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: 徐晓鸣
+artist_ids:
+- 465e4bd8-18e4-4571-92bb-929aa5f6961f
+illustration_id: 789f898a-d3e8-46bc-8ffc-ae778f638e1f
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- schinesealtart
+edhrec_rank: 23700
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.97'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Starlit+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Starlit+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Starlit+Angel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/477199?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Starlit+Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Starlit+Angel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

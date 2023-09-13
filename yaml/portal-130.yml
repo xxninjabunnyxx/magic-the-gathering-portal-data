@@ -1,0 +1,106 @@
+---
+object: card
+id: 85883197-fd55-4e82-862f-87be4f789493
+oracle_id: 66107cfd-4bdb-4266-a650-940743555ea4
+multiverse_ids:
+- 4341
+tcgplayer_id: 681
+cardmarket_id: 10120
+name: Forked Lightning
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/85883197-fd55-4e82-862f-87be4f789493
+scryfall_uri: https://scryfall.com/card/por/130/forked-lightning?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/5/85883197-fd55-4e82-862f-87be4f789493.jpg?1562446881
+  normal: https://cards.scryfall.io/normal/front/8/5/85883197-fd55-4e82-862f-87be4f789493.jpg?1562446881
+  large: https://cards.scryfall.io/large/front/8/5/85883197-fd55-4e82-862f-87be4f789493.jpg?1562446881
+  png: https://cards.scryfall.io/png/front/8/5/85883197-fd55-4e82-862f-87be4f789493.png?1562446881
+  art_crop: https://cards.scryfall.io/art_crop/front/8/5/85883197-fd55-4e82-862f-87be4f789493.jpg?1562446881
+  border_crop: https://cards.scryfall.io/border_crop/front/8/5/85883197-fd55-4e82-862f-87be4f789493.jpg?1562446881
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Forked Lightning deals 4 damage divided as you choose among one, two,
+  or three target creatures.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/85883197-fd55-4e82-862f-87be4f789493/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A66107cfd-4bdb-4266-a650-940743555ea4&unique=prints
+collector_number: '130'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ted Naifeh
+artist_ids:
+- 4601d9e5-616b-47c4-b9ca-e2b4ab257bc9
+illustration_id: e3d10c15-cdcd-44fc-8a92-428fefb73167
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23170
+prices:
+  usd: '1.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.90'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4341
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Forked+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Forked+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Forked+Lightning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/681?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forked+Lightning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forked+Lightning&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

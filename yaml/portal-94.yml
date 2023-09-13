@@ -1,0 +1,107 @@
+---
+object: card
+id: ecdfcb03-2f77-4f54-af62-3012cd3efd4f
+oracle_id: 4d98aea2-b4ff-4903-ba28-a53fbfaad6b1
+multiverse_ids:
+- 4222
+tcgplayer_id: 668
+cardmarket_id: 10001
+name: Final Strike
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/ecdfcb03-2f77-4f54-af62-3012cd3efd4f
+scryfall_uri: https://scryfall.com/card/por/94/final-strike?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/c/ecdfcb03-2f77-4f54-af62-3012cd3efd4f.jpg?1562448327
+  normal: https://cards.scryfall.io/normal/front/e/c/ecdfcb03-2f77-4f54-af62-3012cd3efd4f.jpg?1562448327
+  large: https://cards.scryfall.io/large/front/e/c/ecdfcb03-2f77-4f54-af62-3012cd3efd4f.jpg?1562448327
+  png: https://cards.scryfall.io/png/front/e/c/ecdfcb03-2f77-4f54-af62-3012cd3efd4f.png?1562448327
+  art_crop: https://cards.scryfall.io/art_crop/front/e/c/ecdfcb03-2f77-4f54-af62-3012cd3efd4f.jpg?1562448327
+  border_crop: https://cards.scryfall.io/border_crop/front/e/c/ecdfcb03-2f77-4f54-af62-3012cd3efd4f.jpg?1562448327
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: |-
+  As an additional cost to cast this spell, sacrifice a creature.
+  Final Strike deals damage to target opponent or planeswalker equal to the sacrificed creature's power.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ecdfcb03-2f77-4f54-af62-3012cd3efd4f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4d98aea2-b4ff-4903-ba28-a53fbfaad6b1&unique=prints
+collector_number: '94'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Coulthart
+artist_ids:
+- 55e5567a-7673-418e-8ba2-aee7efd6f94b
+illustration_id: 587681c3-13c2-497f-a8bd-0b8bdb23ae86
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20220
+prices:
+  usd: '2.93'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.75'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4222
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Final+Strike&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Final+Strike&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Final+Strike
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/668?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Final+Strike&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Final+Strike&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

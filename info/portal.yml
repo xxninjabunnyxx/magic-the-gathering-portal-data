@@ -1,0 +1,16 @@
+---
+object: set
+id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+code: por
+tcgplayer_id: 86
+name: Portal
+uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+scryfall_uri: https://scryfall.com/sets/por
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apor&unique=prints
+released_at: '1997-05-01'
+set_type: starter
+card_count: 257
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/por.svg?1694404800

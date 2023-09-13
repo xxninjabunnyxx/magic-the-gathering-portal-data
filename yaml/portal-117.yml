@@ -1,0 +1,105 @@
+---
+object: card
+id: e4d7c251-cb65-4ffc-8bf0-5e9692004a87
+oracle_id: 39e21a5a-b278-478a-854c-17695c0f6246
+multiverse_ids:
+- 4246
+tcgplayer_id: 819
+cardmarket_id: 10025
+name: Wicked Pact
+lang: en
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/e4d7c251-cb65-4ffc-8bf0-5e9692004a87
+scryfall_uri: https://scryfall.com/card/por/117/wicked-pact?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/4/e4d7c251-cb65-4ffc-8bf0-5e9692004a87.jpg?1562448300
+  normal: https://cards.scryfall.io/normal/front/e/4/e4d7c251-cb65-4ffc-8bf0-5e9692004a87.jpg?1562448300
+  large: https://cards.scryfall.io/large/front/e/4/e4d7c251-cb65-4ffc-8bf0-5e9692004a87.jpg?1562448300
+  png: https://cards.scryfall.io/png/front/e/4/e4d7c251-cb65-4ffc-8bf0-5e9692004a87.png?1562448300
+  art_crop: https://cards.scryfall.io/art_crop/front/e/4/e4d7c251-cb65-4ffc-8bf0-5e9692004a87.jpg?1562448300
+  border_crop: https://cards.scryfall.io/border_crop/front/e/4/e4d7c251-cb65-4ffc-8bf0-5e9692004a87.jpg?1562448300
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy two target nonblack creatures. You lose 5 life.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e4d7c251-cb65-4ffc-8bf0-5e9692004a87/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A39e21a5a-b278-478a-854c-17695c0f6246&unique=prints
+collector_number: '117'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Adam Rex
+artist_ids:
+- 445bd2fb-4a70-4599-87a4-83cf5979fc56
+illustration_id: 0af8f002-bcbd-4114-b858-332b10e6bb57
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21674
+prices:
+  usd: '3.33'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.85'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4246
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wicked+Pact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wicked+Pact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wicked+Pact
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/819?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wicked+Pact&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wicked+Pact&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

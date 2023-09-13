@@ -1,0 +1,106 @@
+---
+object: card
+id: 86ce2daa-8d47-4417-a5bb-3354a7c24bab
+oracle_id: 24cf7fad-233b-49fd-b2a1-a29e3e30041c
+multiverse_ids: []
+tcgplayer_id: 477201
+cardmarket_id: 10057
+name: Taunt
+lang: zhs
+released_at: '1997-05-01'
+uri: https://api.scryfall.com/cards/86ce2daa-8d47-4417-a5bb-3354a7c24bab
+scryfall_uri: https://scryfall.com/card/por/71s/zhs/taunt?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/6/86ce2daa-8d47-4417-a5bb-3354a7c24bab.jpg?1664654389
+  normal: https://cards.scryfall.io/normal/front/8/6/86ce2daa-8d47-4417-a5bb-3354a7c24bab.jpg?1664654389
+  large: https://cards.scryfall.io/large/front/8/6/86ce2daa-8d47-4417-a5bb-3354a7c24bab.jpg?1664654389
+  png: https://cards.scryfall.io/png/front/8/6/86ce2daa-8d47-4417-a5bb-3354a7c24bab.png?1664654389
+  art_crop: https://cards.scryfall.io/art_crop/front/8/6/86ce2daa-8d47-4417-a5bb-3354a7c24bab.jpg?1664654389
+  border_crop: https://cards.scryfall.io/border_crop/front/8/6/86ce2daa-8d47-4417-a5bb-3354a7c24bab.jpg?1664654389
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: During target player's next turn, creatures that player controls attack
+  you if able.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 478c47df-5058-4ce6-830e-7e80732b2ca9
+set: por
+set_name: Portal
+set_type: starter
+set_uri: https://api.scryfall.com/sets/478c47df-5058-4ce6-830e-7e80732b2ca9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/por?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/86ce2daa-8d47-4417-a5bb-3354a7c24bab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A24cf7fad-233b-49fd-b2a1-a29e3e30041c&unique=prints
+collector_number: 71s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: 杨钊
+artist_ids:
+- 41ff39a4-73b6-41f3-9f1a-d0fdd7ea4ef1
+illustration_id: ab5d9d03-f36a-4f96-bc27-cfced3f5b4b4
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- schinesealtart
+edhrec_rank: 24502
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '0.65'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Taunt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Taunt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Taunt
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/477201?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Taunt&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Taunt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
